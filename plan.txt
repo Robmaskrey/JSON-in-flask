@@ -1,0 +1,25 @@
+# step 1: show migration
+# step 2: add posts table, and relationship to posts table
+# step 3: include flask context shell
+# step 4: in shell, add 2 users and 2 posts
+# step 5: query those users/posts (User.query.all())
+# step 6: show how to downgrade, upgrade db
+# step 7: In shell show password hash & password check
+# step 8: Add set and check password to user / security
+# step 9: Set a user pass in shell & check (commit after)
+# step 10: Install flask-login
+# step 11: Import LoginManager to init.py
+# step 12: Set login = LoginManager(app)
+# step 13: Add UserMixin to User table (import required)
+# step 14: Add user loader function
+# step 15: Re-write login route
+# step 16: Test logging works
+# step 17: Setup user logout route (import)
+# step 18: Change login to logout if logged in (base)
+# step 19: Move 'register' link into if statement
+# step 20: Add login requirement (login.login_view)
+# step 21: Add login_required to index route (import)
+# step 22: Add redirect to 'next' page (.netloc & import)
+# step 23: Showed logged in user in templates
+# step 24: Update RegisterForm with functions (import)
+# step 25: Update 'register' route (import)

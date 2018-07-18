@@ -1,0 +1,42 @@
+[
+  {
+    "id": "101",
+    "name":"Hand Sanitizer",
+    "price":1.99
+  },
+  {
+    "id": "102",
+    "name":"Soap",
+    "price":2.99
+  },
+  {
+    "id": "103",
+    "name":"Pizza",
+    "price":3.99
+  },
+  {
+    "id": "104",
+    "name":"Burgers",
+    "price":4.99
+  },
+  {
+    "id": "105",
+    "name":"Milk",
+    "price":3.10
+  },
+  {
+    "id": "106",
+    "name":"Eggs",
+    "price":1.87
+  },
+  {
+    "id": "107",
+    "name":"Bread",
+    "price":4.56
+  },
+  {
+    "id": "108",
+    "name":"Bananas",
+    "price":4.59
+  }
+]

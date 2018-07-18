@@ -1,0 +1,46 @@
+.prod_name {
+  text-align: center;
+}
+
+.amount {
+  text-align: center;
+  font-style: italic;
+}
+
+.btn, .btn-primary {
+  display: block;
+  margin: 10px auto;
+}
+
+img {
+  margin-top: 40px;
+  width: 100%;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.table_head, .cart_total {
+  background-color: lightgrey;
+  text-align: center;
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 5px;
+}
+
+.badge {
+  cursor: pointer;
+}
+
+.product {
+  margin: 20px;
+}
+
+
+tr.cart_total th {
+  te
+}
